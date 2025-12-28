@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name = 'django-profile-middleware',
     packages = ['django_profile_middleware'],
-    version= '0.1',
+    version= '0.2',
     license = 'MIT',
     description = 'an easy to use middleware to profile your custom middlewares and code',
     author = 'Himanshu Goyal',
